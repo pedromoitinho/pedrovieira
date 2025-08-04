@@ -73,7 +73,7 @@ export default function RealEstateLanding() {
       </header>
 
       {/* Hero Section */}
-      <section className="relative py-10 lg:py-16 ml-35 overflow-hidden">
+      <section className="relative py-10 lg:py-16 overflow-hidden">
         <div className="absolute inset-0" />
         <div className="container mx-auto px-4 lg:px-6 relative">
           <div className="grid lg:grid-cols-2 gap-12 items-center">

@@ -25,9 +25,6 @@ import { useState } from "react";
 export default function RealEstateLanding() {
   const [language, setLanguage] = useState("en");
 
-  const translateSite = () => {
-    setLanguage((prev) => (prev === "en" ? "pt-br" : "en"));
-  };
 
   return (
     <div className="min-h-screen bg-white">
